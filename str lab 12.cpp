@@ -9,5 +9,6 @@ int main() {
     printf("My name is: %s", name);
     puts(name);
 return 0;
-}
+}hadi
+
 
